@@ -17,8 +17,4 @@ python projects/chatbot/bot.py
 
 ### Screenshot/GIF showing the sample use of the script
 
-The Run command script above is the best screenshot. 
-
-## *Author Name*
-
-[wj-Mcat](https://github.com/wj-Mcat), 吴京京, NLP Researcher, Chatbot Lover
+The Run command script above is the best screenshot.
